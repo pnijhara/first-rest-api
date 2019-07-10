@@ -9,8 +9,8 @@ First Rest API using Django
 
 ## Setup
 '''
-cd first-rest-api
-pipenv shell
+  cd first-rest-api
+  pipenv shell
 '''
 
 ## Install dependencies
