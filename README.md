@@ -14,13 +14,13 @@ First Rest API using Django
   ```
 
 ## Install dependencies
-'''
-pipenv install
-'''
+```
+  $ pipenv install
+```
 
 ## Run project
-'''
-cd FirstRestApi
-import django
-python3 manage.py runserver
-'''
+```
+  $ cd FirstRestApi
+  $ import django
+  $ python3 manage.py runserver
+```
