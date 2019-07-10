@@ -21,6 +21,6 @@ First Rest API using Django
 ## Run project
 ```
   $ cd FirstRestApi
-  $ import django
+  $ import django    # in python3 shell
   $ python3 manage.py runserver
 ```
