@@ -4,7 +4,7 @@ First Rest API using Django
 
 ## Clone
 
->  git clone https://github.com/pnijhara/first-rest-api.git
+``` git clone https://github.com/pnijhara/first-rest-api.git ```
 
 ## Setup
 
